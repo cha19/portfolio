@@ -1,3 +1,3 @@
 # Charan's Resume Website
 
-Link: https://cha19.github.io/saicharan/
+Link: https://cha19.github.io/portfolio/
